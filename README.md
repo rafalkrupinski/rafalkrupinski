@@ -29,3 +29,7 @@ The current approaches available are
 I think pre-commit would be a either a good tool to wrap into a generic tool-manager, or a good starting point for a fork.
 
 And it's pure python.
+
+- [Mise](https://mise.jdx.dev/)
+
+   I think Mise is the best tool for this.
